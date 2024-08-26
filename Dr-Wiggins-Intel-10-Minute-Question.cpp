@@ -1,6 +1,7 @@
 /*
 Creator: Israel Showell
-Date: 8-26-2024
+Start Date: 8-26-2024
+End Date: 8-26-2024
 Project Name: Dr.Wiggins' Intel Question
 Description:
 Dr.Wiggins' told us about his 10 minute Intel interview question, and I figured it out and wrote down the solution in 5 minutes on paper. 
